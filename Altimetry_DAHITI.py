@@ -2,6 +2,14 @@
 """
 Created on Wed Feb 28 05:52:24 2018
 
+Database for Hydrological Time Series of Inland Waters (DAHITI)
+
+
+link to obtain the 
+
+
+
+
 @author: laver1
 """
 
@@ -21,7 +29,7 @@ import json
 
 url = 'http://dahiti.dgfi.tum.de/api/v1/'
 username ='mlaverde'
-password = 'Santafe2600m'
+password = 'eo-reservoir'
 args = {}
 """ required options """
 args['username'] = username
