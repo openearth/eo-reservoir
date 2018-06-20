@@ -16,3 +16,5 @@
 - [ ] Build a website to inspect reservoir time series
 - [ ] Estimate water levels and volume using HydroLAKES and/or hydrological models
 - [ ] Scale globally
+- [ ] Detect missing waterbodies in JRC (or custom) water occurrence dataset, convert to vector
+- [ ] Improve algorithm to look at waterbody perimeter only (dynamic pixels), Voronoi 
