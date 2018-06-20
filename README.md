@@ -18,3 +18,5 @@
 - [ ] Scale globally
 - [ ] Detect missing waterbodies in JRC (or custom) water occurrence dataset, convert to vector
 - [ ] Improve algorithm to look at waterbody perimeter only (dynamic pixels), Voronoi 
+- [ ] Clip water edges belonging to clouds before filling missing water
+- [ ] Identify areas where water occurence should not be used (non-informative prior)
