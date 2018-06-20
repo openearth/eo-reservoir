@@ -8,6 +8,7 @@
 - [ ] Generate surface water area time series for MENA region using JRC monthly water extent combined with JRC water occurrence as a prior and maximum water extent based on an overlap HydroLAKES and JRC water occurrence
 - [ ] Generate surface water area time series for MENA region using RAW images (Landsat 5,7,8, Sentinel-2, ASTER?) monthly water extent combined with JRC water occurrence as a prior and maximum water extent based on an overlap HydroLAKES and JRC water occurrence. Include metainfo in exported time series (fill pixel fraction, cloud/snow/... pixel count).
 - [ ] Identify missing reservoirs (constructed after 1999 and missing in HydroLAKES) 
+- [ ] Detect waterbodies where HydroLAKES max distance point (not centroid) does not overlap with the JRC water occurence. Then take the largerst blob from overlapping JRC water occurrence.
 - [ ] Cache time series under hydro engine (store on GCS)
 - [ ] Setup a script to update time series (monthly?)
 - [ ] Update license on Hydro Engine
