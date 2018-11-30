@@ -1,0 +1,15 @@
+{
+  "name": "generate_surface_water_area_task",
+  "version": "1.0.0",
+  "description": "Generates surface water area dynamics given waterbody location and a time range",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gennadii Donchyts",
+  "license": "ISC",
+  "dependencies": {
+    "deasync": "^0.1.13",
+    "ee-runner": "0.0.30"
+  }
+}
