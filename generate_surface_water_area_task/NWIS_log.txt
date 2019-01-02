@@ -1,0 +1,684 @@
+D:\src\GitHub\eo-reservoir\generate_surface_water_area_task>node index.js
+Number of waterbodies: 704
+water_area_00000, scale: 10
+water_area_00001, scale: 10
+water_area_00002, scale: 10
+water_area_00003, scale: 10
+water_area_00004, scale: 10
+water_area_00005, scale: 10
+water_area_00006, scale: 11.027591122609953
+water_area_00007, scale: 10
+water_area_00008, scale: 10
+water_area_00009, scale: 36.55124073410374
+water_area_00010, scale: 10
+water_area_00011, scale: 10
+water_area_00012, scale: 11.883932768137077
+water_area_00013, scale: 10
+water_area_00014, scale: 10
+water_area_00015, scale: 17.053539099686276
+water_area_00016, scale: 20.088848524780186
+water_area_00017, scale: 157.87398139998834
+water_area_00018, scale: 11.391556829281093
+water_area_00019, scale: 12.369530097578863
+water_area_00020, scale: 10
+water_area_00021, scale: 10
+water_area_00022, scale: 10
+water_area_00023, scale: 10
+water_area_00024, scale: 10
+water_area_00025, scale: 13.42939756066741
+water_area_00026, scale: 10.375460906719201
+water_area_00027, scale: 10
+water_area_00028, scale: 10.214989949516065
+water_area_00029, scale: 10.55173327806065
+water_area_00030, scale: 10
+water_area_00031, scale: 10
+water_area_00032, scale: 11.418429513034814
+water_area_00033, scale: 10
+water_area_00034, scale: 10
+water_area_00035, scale: 10
+water_area_00036, scale: 14.494477357192814
+No waterbody detected for dam index: 37
+water_area_00038, scale: 12.91050647474201
+water_area_00039, scale: 11.621803150689102
+water_area_00040, scale: 10
+water_area_00041, scale: 10
+water_area_00042, scale: 10
+No waterbody detected for dam index: 43
+water_area_00044, scale: 10.56764679826352
+water_area_00045, scale: 16.266379505847244
+water_area_00046, scale: 35.61259497135804
+water_area_00047, scale: 10
+water_area_00048, scale: 10
+water_area_00049, scale: 10
+water_area_00050, scale: 10
+No waterbody detected for dam index: 51
+water_area_00052, scale: 10
+water_area_00053, scale: 10
+water_area_00054, scale: 10
+water_area_00055, scale: 10
+water_area_00056, scale: 10
+water_area_00057, scale: 10
+water_area_00058, scale: 11.46908734269221
+water_area_00059, scale: 10
+water_area_00060, scale: 11.155083077005548
+water_area_00061, scale: 23.442396477292526
+water_area_00062, scale: 11.517296437418842
+water_area_00063, scale: 10
+water_area_00064, scale: 17.621709188132122
+water_area_00065, scale: 10
+water_area_00066, scale: 13.42115278583724
+water_area_00067, scale: 10
+No waterbody detected for dam index: 68
+water_area_00069, scale: 10.773830077829953
+No waterbody detected for dam index: 70
+water_area_00071, scale: 10
+water_area_00072, scale: 10
+water_area_00073, scale: 10
+water_area_00074, scale: 24.832319425282662
+water_area_00075, scale: 10
+water_area_00076, scale: 19.57551969761895
+water_area_00077, scale: 10.346083039775326
+No waterbody detected for dam index: 78
+water_area_00079, scale: 27.78404742445114
+water_area_00080, scale: 10
+water_area_00081, scale: 10
+water_area_00082, scale: 10
+water_area_00083, scale: 10
+water_area_00084, scale: 10
+water_area_00085, scale: 18.887026955245325
+water_area_00086, scale: 10
+water_area_00087, scale: 10.708532511686885
+No waterbody detected for dam index: 88
+water_area_00089, scale: 10
+water_area_00090, scale: 10
+water_area_00091, scale: 10
+water_area_00092, scale: 10
+water_area_00093, scale: 10
+water_area_00094, scale: 114.58106866055286
+C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\@google\earthengine\build\main.js:9773
+  throw Error(errorMessage);
+water_area_00096, scale: 66.01632598079873
+water_area_00097, scale: 10
+No waterbody detected for dam index: 98
+water_area_00099, scale: 10
+No waterbody detected for dam index: 100
+water_area_00101, scale: 10
+water_area_00102, scale: 10
+water_area_00103, scale: 10
+water_area_00104, scale: 10
+water_area_00105, scale: 10
+water_area_00106, scale: 10
+water_area_00107, scale: 10
+water_area_00108, scale: 10
+No waterbody detected for dam index: 109
+water_area_00110, scale: 10
+water_area_00111, scale: 10
+water_area_00112, scale: 10
+water_area_00113, scale: 10
+water_area_00114, scale: 10
+water_area_00115, scale: 10
+water_area_00116, scale: 12.175833126874911
+water_area_00117, scale: 10
+water_area_00118, scale: 15.738162962873865
+water_area_00119, scale: 10
+water_area_00120, scale: 10
+water_area_00121, scale: 10
+water_area_00122, scale: 26.09347565957886
+water_area_00123, scale: 43.99104402653926
+water_area_00124, scale: 10
+water_area_00125, scale: 10
+No waterbody detected for dam index: 126
+water_area_00127, scale: 17.69699443896548
+water_area_00128, scale: 10
+water_area_00129, scale: 10
+No waterbody detected for dam index: 130
+water_area_00131, scale: 10
+water_area_00132, scale: 10
+water_area_00133, scale: 10
+No waterbody detected for dam index: 134
+
+No waterbody detected for dam index: 134
+water_area_00135, scale: 10
+water_area_00136, scale: 13.44073450210965
+water_area_00137, scale: 10
+water_area_00138, scale: 10
+water_area_00139, scale: 15.840220040348614
+water_area_00140, scale: 12.996290337742442
+water_area_00141, scale: 10
+water_area_00142, scale: 10
+No waterbody detected for dam index: 143
+water_area_00144, scale: 13.327435764612243
+water_area_00145, scale: 10
+water_area_00146, scale: 10
+water_area_00147, scale: 10
+water_area_00148, scale: 10
+No waterbody detected for dam index: 149
+water_area_00150, scale: 10
+C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\@google\earthengine\build\main.js:9773
+  throw Error(errorMessage);
+  ^
+
+Error: Geometry.coordinates: GeometryCollections do not have coordinate lists. Use geometries().
+    at Object.ee.data.handleResponse_ (C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\@google\earthengine\build\main.js:9773:9)
+    at Object.ee.data.send_ (C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\@google\earthengine\build\main.js:9722:18)
+    at Object.ee.data.getValue (C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\@google\earthengine\build\main.js:9409:18)
+    at ee.Number.ee.ComputedObject.getInfo (C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\@google\earthengine\build\main.js:10233:18)
+    at getWaterbody (C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\index.js:67:61)
+    at gee.initialize (C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\index.js:91:21)
+    at C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\ee-runner\authenticate.js:36:13
+    at C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\google-auth-library\lib\auth\oauth2client.js:210:7
+    at C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\google-auth-library\lib\auth\oauth2client.js:185:5
+    at Request._callback (C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\google-auth-library\lib\transporters.js:106:7)
+
+
+...
+
+Number of waterbodies: 704
+water_area_00176, scale: 19.133825314361
+C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\@google\earthengine\build\main.js:9773
+  throw Error(errorMessage);
+  ^
+
+Error: Geometry.coordinates: GeometryCollections do not have coordinate lists. Use geometries().
+    at Object.ee.data.handleResponse_ (C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\@google\earthengine\build\main.js:9773:9)
+    at Object.ee.data.send_ (C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\@google\earthengine\build\main.js:9722:18)
+    at Object.ee.data.getValue (C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\@google\earthengine\build\main.js:9409:18)
+    at ee.Number.ee.ComputedObject.getInfo (C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\@google\earthengine\build\main.js:10233:18)
+    at getWaterbody (C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\index.js:67:61)
+    at gee.initialize (C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\index.js:91:21)
+    at C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\ee-runner\authenticate.js:36:13
+    at C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\google-auth-library\lib\auth\oauth2client.js:210:7
+    at C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\google-auth-library\lib\auth\oauth2client.js:185:5
+    at Request._callback (C:\src\GitHub\eo-reservoir\generate_surface_water_area_task\node_modules\google-auth-library\lib\transporters.js:106:7)
+
+Number of waterbodies: 704
+water_area_00215, scale: 65.5357983630069
+water_area_00216, scale: 32.25134980002089
+water_area_00217, scale: 43.77862778504419
+water_area_00218, scale: 14.791144341557999
+water_area_00219, scale: 18.264832690387237
+water_area_00220, scale: 17.93056995314711
+water_area_00221, scale: 10
+water_area_00222, scale: 46.19193964940703
+water_area_00223, scale: 32.844937553275116
+water_area_00224, scale: 28.256817929719414
+No waterbody detected for dam index: 225
+water_area_00226, scale: 23.918749933532514
+water_area_00227, scale: 29.62097793958661
+water_area_00228, scale: 32.3010272130031
+No waterbody detected for dam index: 229
+No waterbody detected for dam index: 230
+No waterbody detected for dam index: 231
+water_area_00232, scale: 10
+water_area_00233, scale: 20.428920808830654
+water_area_00234, scale: 11.392643453333784
+water_area_00235, scale: 26.364618723044476
+water_area_00236, scale: 37.88291008109414
+water_area_00237, scale: 26.918547092351055
+water_area_00238, scale: 29.8024752817888
+water_area_00239, scale: 10
+water_area_00240, scale: 20.639276354062627
+water_area_00241, scale: 52.259547510447156
+water_area_00242, scale: 10
+water_area_00243, scale: 10
+water_area_00244, scale: 10
+No waterbody detected for dam index: 245
+water_area_00246, scale: 21.907449542280137
+No waterbody detected for dam index: 247
+No waterbody detected for dam index: 248
+water_area_00249, scale: 26.487900261607525
+water_area_00250, scale: 18.08958743948575
+water_area_00251, scale: 12.907575929213756
+No waterbody detected for dam index: 252
+No waterbody detected for dam index: 253
+water_area_00254, scale: 31.50359801200445
+water_area_00255, scale: 25.337630544356795
+water_area_00256, scale: 34.258137573090394
+water_area_00257, scale: 17.583774708611326
+water_area_00258, scale: 24.974323517808216
+water_area_00259, scale: 44.17710621452478
+water_area_00260, scale: 10
+water_area_00261, scale: 27.810812856294934
+water_area_00262, scale: 16.607363160541578
+water_area_00263, scale: 40.849415273039696
+water_area_00264, scale: 12.854280611406518
+water_area_00265, scale: 49.07872667498416
+water_area_00266, scale: 127.10610334945073
+water_area_00267, scale: 15.132000327412065
+water_area_00268, scale: 38.15479922995684
+water_area_00269, scale: 30.618347815447386
+water_area_00270, scale: 30.618347815447386
+water_area_00271, scale: 49.4311164234492
+water_area_00272, scale: 55.68282724104257
+water_area_00273, scale: 43.68259159762888
+water_area_00274, scale: 10.151880329614574
+water_area_00275, scale: 10
+water_area_00276, scale: 10
+water_area_00277, scale: 10
+No waterbody detected for dam index: 278
+water_area_00279, scale: 10
+water_area_00280, scale: 10
+water_area_00281, scale: 10
+water_area_00282, scale: 10
+water_area_00283, scale: 10
+water_area_00284, scale: 75.79984727225353
+water_area_00285, scale: 76.44293417504953
+water_area_00286, scale: 15.71928846183788
+water_area_00287, scale: 10
+water_area_00288, scale: 28.950776778450326
+water_area_00289, scale: 76.90354355339798
+water_area_00290, scale: 73.07114010887973
+water_area_00291, scale: 115.59639916562132
+water_area_00292, scale: 10
+No waterbody detected for dam index: 293
+No waterbody detected for dam index: 294
+water_area_00295, scale: 30.586441590076248
+water_area_00296, scale: 35.467188728424404
+water_area_00297, scale: 10
+water_area_00298, scale: 77.29947417690737
+water_area_00299, scale: 69.41157074272688
+water_area_00300, scale: 10
+water_area_00301, scale: 53.720415262478326
+water_area_00302, scale: 26.125876202322896
+water_area_00303, scale: 10
+water_area_00304, scale: 115.05185025116114
+water_area_00305, scale: 10
+water_area_00306, scale: 10
+water_area_00307, scale: 17.44787963915033
+water_area_00308, scale: 13.195353630367462
+water_area_00309, scale: 37.23478536303981
+No waterbody detected for dam index: 310
+water_area_00311, scale: 15.220402369437855
+water_area_00312, scale: 10
+water_area_00313, scale: 17.433402987875116
+Number of waterbodies: 704
+water_area_00314, scale: 35.198168099172634
+water_area_00315, scale: 109.51536081925336
+water_area_00316, scale: 62.54152443367425
+water_area_00317, scale: 10
+water_area_00318, scale: 24.395199873693922
+water_area_00319, scale: 10
+water_area_00320, scale: 12.19185168627029
+water_area_00321, scale: 10
+water_area_00322, scale: 10
+water_area_00323, scale: 10.263514410444708
+water_area_00324, scale: 17.687883000102012
+water_area_00325, scale: 10
+water_area_00326, scale: 13.497391317155605
+water_area_00327, scale: 10
+water_area_00328, scale: 10
+water_area_00329, scale: 10
+water_area_00330, scale: 26.90709024063199
+water_area_00331, scale: 19.978538914246855
+water_area_00332, scale: 28.709186557416924
+water_area_00333, scale: 10
+water_area_00334, scale: 10
+water_area_00335, scale: 15.756614571178213
+water_area_00336, scale: 16.78520438735775
+water_area_00337, scale: 11.746288972140059
+water_area_00338, scale: 37.28390050473844
+No waterbody detected for dam index: 339
+water_area_00340, scale: 10
+water_area_00341, scale: 10
+water_area_00342, scale: 169.57926017997082
+water_area_00343, scale: 14.830498600582416
+water_area_00344, scale: 50.71379773443408
+No waterbody detected for dam index: 345
+water_area_00346, scale: 24.488861539601775
+water_area_00347, scale: 703.5378012947987
+water_area_00348, scale: 11.149145440981192
+water_area_00349, scale: 10
+water_area_00350, scale: 66.31400959438443
+water_area_00351, scale: 10
+No waterbody detected for dam index: 352
+water_area_00353, scale: 1062.8820005505659
+water_area_00354, scale: 340.20552116459606
+water_area_00355, scale: 18.3117548269276
+water_area_00356, scale: 11.085031588288295
+water_area_00357, scale: 20.85763841500026
+water_area_00358, scale: 12.530418968103227
+water_area_00359, scale: 16.69339897153791
+water_area_00360, scale: 21.35511124635485
+No waterbody detected for dam index: 361
+water_area_00362, scale: 25.093574132428326
+water_area_00363, scale: 16.813990139911493
+No waterbody detected for dam index: 364
+water_area_00365, scale: 10
+water_area_00366, scale: 10
+water_area_00367, scale: 10
+water_area_00368, scale: 16.953630639196412
+water_area_00369, scale: 1062.881997455621
+No waterbody detected for dam index: 370
+water_area_00371, scale: 10
+water_area_00372, scale: 10
+water_area_00373, scale: 1062.8657195801434
+water_area_00374, scale: 29.48104482768939
+water_area_00375, scale: 10
+water_area_00376, scale: 173.4938826240764
+water_area_00377, scale: 54.41021132548856
+water_area_00378, scale: 170.10953869934482
+water_area_00379, scale: 10.053923925703495
+water_area_00380, scale: 33.406660676669624
+No waterbody detected for dam index: 381
+water_area_00382, scale: 66.0456469503906
+water_area_00383, scale: 66.0456469503906
+water_area_00384, scale: 24.070820863953923
+water_area_00385, scale: 13.004562440245193
+water_area_00386, scale: 36.50389618535799
+water_area_00387, scale: 36.65634889780611
+water_area_00388, scale: 66.0456469503906
+water_area_00389, scale: 39.7258740220812
+water_area_00390, scale: 10
+water_area_00391, scale: 10
+water_area_00392, scale: 35.304794930034454
+water_area_00393, scale: 10.656945102024766
+water_area_00394, scale: 13.684466077895724
+water_area_00395, scale: 27.692791071563295
+water_area_00396, scale: 16.02160183233485
+water_area_00397, scale: 14.446165555537089
+water_area_00398, scale: 17.33781157637885
+water_area_00399, scale: 10.914257940855958
+water_area_00400, scale: 18.014272479723598
+water_area_00401, scale: 20.076027165125648
+water_area_00402, scale: 13.332306714223183
+water_area_00403, scale: 19.774766296690892
+water_area_00404, scale: 11.26133308540505
+water_area_00405, scale: 16.294126430140576
+water_area_00406, scale: 14.229837849459654
+water_area_00407, scale: 17.696187725718953
+water_area_00408, scale: 17.267331637001295
+water_area_00409, scale: 10
+water_area_00410, scale: 10
+water_area_00411, scale: 15.773596927027222
+water_area_00412, scale: 10
+water_area_00413, scale: 12.567407882452951
+water_area_00414, scale: 10
+water_area_00415, scale: 37.58549059858162
+water_area_00416, scale: 10
+water_area_00417, scale: 10
+water_area_00418, scale: 11.730676259668698
+water_area_00419, scale: 10
+water_area_00420, scale: 10
+water_area_00421, scale: 10.739150733597999
+water_area_00422, scale: 10
+water_area_00423, scale: 10
+water_area_00424, scale: 17.662410645847732
+water_area_00425, scale: 11.383492615062028
+No waterbody detected for dam index: 426
+water_area_00427, scale: 30.697269879342972
+water_area_00428, scale: 10
+water_area_00429, scale: 22.47976553826428
+water_area_00430, scale: 12.567407882452951
+water_area_00431, scale: 13.735752423028382
+water_area_00432, scale: 10
+No waterbody detected for dam index: 433
+No waterbody detected for dam index: 434
+water_area_00435, scale: 11.96728469416944
+water_area_00436, scale: 10
+water_area_00437, scale: 20.200326488312147
+water_area_00438, scale: 11.215653792874305
+water_area_00439, scale: 10
+water_area_00440, scale: 14.249935549188638
+water_area_00441, scale: 10
+water_area_00442, scale: 10
+water_area_00443, scale: 10
+water_area_00444, scale: 10
+water_area_00445, scale: 10
+water_area_00446, scale: 10
+water_area_00447, scale: 10
+water_area_00448, scale: 10
+No waterbody detected for dam index: 449
+water_area_00450, scale: 10
+water_area_00451, scale: 10
+water_area_00452, scale: 10
+water_area_00453, scale: 10
+water_area_00454, scale: 10
+water_area_00455, scale: 10
+water_area_00456, scale: 10
+water_area_00457, scale: 10
+water_area_00458, scale: 10
+No waterbody detected for dam index: 459
+No waterbody detected for dam index: 460
+water_area_00461, scale: 10
+water_area_00462, scale: 10
+water_area_00463, scale: 10
+water_area_00464, scale: 10
+water_area_00465, scale: 10
+water_area_00466, scale: 11.633170878335637
+water_area_00467, scale: 10
+water_area_00468, scale: 10
+No waterbody detected for dam index: 469
+water_area_00470, scale: 10
+water_area_00471, scale: 10
+water_area_00472, scale: 10
+water_area_00473, scale: 10
+water_area_00474, scale: 10
+water_area_00475, scale: 25.805800950042645
+water_area_00476, scale: 28.857210818311227
+water_area_00477, scale: 121.59835790899025
+water_area_00478, scale: 122.99921276592627
+water_area_00479, scale: 125.95351445543994
+water_area_00480, scale: 17.98877248672825
+water_area_00481, scale: 123.96412278158459
+water_area_00482, scale: 94.88398404921774
+water_area_00483, scale: 104.81312031280775
+water_area_00484, scale: 11.171151065662045
+water_area_00485, scale: 12.896651515652
+water_area_00486, scale: 71.37137755935889
+water_area_00487, scale: 34.62542430623469
+water_area_00488, scale: 89.30447328889728
+water_area_00489, scale: 118.3260723569314
+water_area_00490, scale: 28.426874275609567
+water_area_00491, scale: 10.951157986770681
+water_area_00492, scale: 13.246573796366283
+No waterbody detected for dam index: 493
+water_area_00494, scale: 34.10442221473415
+water_area_00495, scale: 12.8001964601042
+water_area_00496, scale: 10
+water_area_00497, scale: 10
+water_area_00498, scale: 10
+water_area_00499, scale: 10
+water_area_00500, scale: 23.28335060652416
+water_area_00501, scale: 31.859521673425288
+water_area_00502, scale: 14.191010842895617
+water_area_00503, scale: 18.235226783986693
+water_area_00504, scale: 10
+water_area_00505, scale: 13.010577193236966
+water_area_00506, scale: 30.572747770145302
+water_area_00507, scale: 36.76015142432669
+water_area_00508, scale: 41.83617718057475
+water_area_00509, scale: 10
+water_area_00510, scale: 25.16896684450051
+water_area_00511, scale: 10
+water_area_00512, scale: 32.1609409987855
+water_area_00513, scale: 39.68237023654952
+water_area_00514, scale: 29.02472564140029
+water_area_00515, scale: 47.18933558730084
+water_area_00516, scale: 24.521713335381634
+water_area_00517, scale: 10
+water_area_00518, scale: 10
+water_area_00519, scale: 14.048733279403947
+water_area_00520, scale: 54.2127258187698
+water_area_00521, scale: 28.740206517017587
+water_area_00522, scale: 10
+water_area_00523, scale: 15.355032937052163
+water_area_00524, scale: 10
+water_area_00525, scale: 27.007334978695077
+water_area_00526, scale: 20.056035328325592
+water_area_00527, scale: 31.81939615074698
+water_area_00528, scale: 15.48296066196548
+water_area_00529, scale: 10
+water_area_00530, scale: 10
+water_area_00531, scale: 19.88856387438823
+water_area_00532, scale: 10
+water_area_00533, scale: 48.96013046010398
+No waterbody detected for dam index: 534
+No waterbody detected for dam index: 535
+water_area_00536, scale: 96.17662488826551
+water_area_00537, scale: 57.22901126215012
+water_area_00538, scale: 10
+water_area_00539, scale: 144.73790896783558
+water_area_00540, scale: 18.992317854383426
+water_area_00541, scale: 45.81535128359454
+Number of waterbodies: 704
+water_area_00543, scale: 11.041734198094737
+water_area_00544, scale: 34.10442221473415
+water_area_00545, scale: 50.42872134478317
+water_area_00546, scale: 11.931263048499146
+water_area_00547, scale: 32.15811430090525
+No waterbody detected for dam index: 548
+water_area_00549, scale: 19.726611367485706
+water_area_00550, scale: 20.615486977873196
+water_area_00551, scale: 10
+water_area_00552, scale: 53.412705063070234
+water_area_00553, scale: 44.38388051707962
+water_area_00554, scale: 39.67714736537745
+water_area_00555, scale: 12.202575557821904
+water_area_00556, scale: 33.64208590115859
+water_area_00557, scale: 13.436296437550773
+water_area_00558, scale: 10
+water_area_00559, scale: 11.687102554221125
+water_area_00560, scale: 19.410563902200867
+water_area_00561, scale: 74.54539806866308
+water_area_00562, scale: 27.04783086522083
+water_area_00563, scale: 10
+water_area_00564, scale: 45.81535128359454
+water_area_00565, scale: 10
+water_area_00566, scale: 36.76015142432669
+water_area_00567, scale: 13.951048407925951
+water_area_00568, scale: 18.796132118420427
+No waterbody detected for dam index: 569
+water_area_00570, scale: 62.7345886331075
+water_area_00571, scale: 10
+water_area_00572, scale: 40.30778876176335
+water_area_00573, scale: 93.81630915600458
+water_area_00574, scale: 19.710296842644517
+water_area_00575, scale: 51.95443644420856
+water_area_00576, scale: 38.90864368288114
+water_area_00577, scale: 105.72029333520355
+water_area_00578, scale: 46.009494967530806
+water_area_00579, scale: 55.93120354179323
+water_area_00580, scale: 44.745445045847084
+water_area_00581, scale: 16.469982631943232
+water_area_00582, scale: 10
+water_area_00583, scale: 14.574663245461899
+water_area_00584, scale: 10.8417832704269
+water_area_00585, scale: 19.704478847615608
+water_area_00586, scale: 10
+water_area_00587, scale: 15.98724617352849
+water_area_00588, scale: 22.966311664119875
+water_area_00589, scale: 51.40804809228144
+water_area_00590, scale: 11.815759287390636
+water_area_00591, scale: 30.105250988528873
+water_area_00592, scale: 10
+water_area_00593, scale: 10
+water_area_00594, scale: 16.08353855273097
+No waterbody detected for dam index: 595
+water_area_00596, scale: 64.95878469982921
+water_area_00597, scale: 24.70521582328032
+water_area_00598, scale: 10
+water_area_00599, scale: 55.228487852103754
+water_area_00600, scale: 40.84185354024929
+water_area_00601, scale: 10
+water_area_00602, scale: 45.81535128359454
+water_area_00603, scale: 37.832873349300165
+water_area_00604, scale: 31.35287046571412
+water_area_00605, scale: 10.963445957890848
+No waterbody detected for dam index: 606
+water_area_00607, scale: 10.591681115987528
+water_area_00608, scale: 14.33974923542476
+water_area_00609, scale: 12.784800935091813
+water_area_00610, scale: 55.59649964155964
+water_area_00611, scale: 31.859521673425288
+water_area_00612, scale: 31.859521673425288
+water_area_00613, scale: 10
+water_area_00614, scale: 10
+water_area_00615, scale: 36.166505981721734
+water_area_00616, scale: 10
+water_area_00617, scale: 10
+water_area_00618, scale: 10
+water_area_00619, scale: 10
+water_area_00620, scale: 55.2243100645452
+water_area_00621, scale: 10
+water_area_00622, scale: 10
+water_area_00623, scale: 19.53689598949063
+water_area_00624, scale: 10
+water_area_00625, scale: 41.33574895126194
+water_area_00626, scale: 10
+water_area_00627, scale: 45.33112524103811
+water_area_00628, scale: 49.87415080076114
+water_area_00629, scale: 10
+water_area_00630, scale: 13.673037220014708
+water_area_00631, scale: 10
+water_area_00632, scale: 29.11827687656642
+water_area_00633, scale: 12.73837379998628
+water_area_00634, scale: 10
+water_area_00635, scale: 10
+water_area_00636, scale: 18.589692820840273
+water_area_00637, scale: 27.854438253485306
+water_area_00638, scale: 14.899531791608608
+water_area_00639, scale: 10
+water_area_00640, scale: 15.35703478594153
+water_area_00641, scale: 25.200587704016336
+water_area_00642, scale: 10
+water_area_00643, scale: 10
+water_area_00644, scale: 12.537370464917215
+water_area_00645, scale: 10
+water_area_00646, scale: 208.57445873486316
+No waterbody detected for dam index: 647
+water_area_00648, scale: 49.93137846643403
+water_area_00649, scale: 173.12089140939366
+water_area_00650, scale: 10
+No waterbody detected for dam index: 651
+water_area_00652, scale: 10
+water_area_00653, scale: 171.16800452160172
+water_area_00654, scale: 19.134325539760244
+water_area_00655, scale: 88.20895796761529
+water_area_00656, scale: 87.78815415198933
+water_area_00657, scale: 24.7228757326523
+water_area_00658, scale: 14.33066848102367
+water_area_00659, scale: 16.837148542311642
+water_area_00660, scale: 20.065610411396992
+water_area_00661, scale: 33.96673638688616
+water_area_00662, scale: 19.5220042678254
+water_area_00663, scale: 10
+water_area_00664, scale: 10
+water_area_00665, scale: 10
+water_area_00666, scale: 87.96553083149712
+water_area_00667, scale: 35.11311306975023
+water_area_00668, scale: 10
+water_area_00669, scale: 10
+water_area_00670, scale: 22.22055057951887
+water_area_00671, scale: 13.224541248246414
+water_area_00672, scale: 10
+water_area_00673, scale: 31.142012461127873
+water_area_00674, scale: 11.55897650689081
+water_area_00675, scale: 10
+water_area_00676, scale: 88.94710342058177
+water_area_00677, scale: 52.085636134903815
+water_area_00678, scale: 10
+water_area_00679, scale: 62.566492677786776
+water_area_00680, scale: 21.751296710621844
+water_area_00681, scale: 21.751296710621844
+water_area_00682, scale: 13.224541248246414
+water_area_00683, scale: 10
+water_area_00684, scale: 10.498767665184054
+water_area_00685, scale: 14.07947464884458
+water_area_00686, scale: 20.119762118733473
+water_area_00687, scale: 14.722080930151348
+water_area_00688, scale: 57.5276978904605
+water_area_00689, scale: 57.56228093045905
+water_area_00690, scale: 10.34720432508474
+water_area_00691, scale: 10
+water_area_00692, scale: 10
+water_area_00693, scale: 10
+water_area_00694, scale: 19.5220042678254
+water_area_00695, scale: 22.531757714748277
+water_area_00696, scale: 16.78090272152137
+water_area_00697, scale: 101.60626158561536
+water_area_00698, scale: 10
+water_area_00699, scale: 32.770853727002
+water_area_00700, scale: 17.894693107686226
+water_area_00701, scale: 35.09232019870474
+water_area_00702, scale: 23.6385397478537
+water_area_00703, scale: 16.50044966512304
