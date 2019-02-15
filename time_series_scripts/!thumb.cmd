@@ -1,0 +1,1 @@
+python D:\cloud\GDrive\waterbody-area-scripts\tasks_generate_thumbs.py 
